@@ -1,0 +1,5 @@
+Single web page with dynamic content allowing to create and read elements from an array of objects.
+
+Concepts: dynamic component renderization, useSTate
+Tools: Visual Studio Code, Bootstrap, React
+Languages: Javascript, HTML, CSS
