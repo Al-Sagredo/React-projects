@@ -6,4 +6,5 @@ Aplicación con React para consumo de API y visualización de resultados con bus
 API usada: https://thronesapi.com/api/v2/Characters
 
 Lenguaje: Javascript
+
 Herramientas: Visual Studio Code, React, Bootstrap, JSX
