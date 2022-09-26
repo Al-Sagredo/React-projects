@@ -1,4 +1,4 @@
-Link de youtube con resumen del video: https://youtu.be/sMXSA2e5UHo
+Link de youtube con resumen del programa: https://youtu.be/sMXSA2e5UHo
 
 
 Aplicación con React para consumo de API y visualización de resultados con buscador.
